@@ -21,7 +21,7 @@ This Python script utilizes the Interactions library to create a powerful Discor
 📖 **Usage**:
 1. Set up a Discord bot and obtain a bot token.
 2. Configure the MongoDB connection string to connect to your MongoDB Atlas cluster.
-3. Install the required dependencies using `pip install -r requirements.txt`.
+3. Install the required dependencies using `pip install -r requirement.txt`.
 4. Run the script to start the bot.
 
 🤝 **Contributing**: Contributions, bug reports, and feature requests are encouraged. Feel free to open issues and submit pull requests.
