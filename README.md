@@ -32,6 +32,6 @@ This Python script utilizes the Interactions library to create a powerful Discor
 - [Report a Bug](https://github.com/username/repo/issues)
 - [Request a Feature](https://github.com/username/repo/issues)
 
-👤 **Authors**: [Author Name](https://github.com/MarianoAkaMery)
+👤 **Authors**: [MarianoAkaMery](https://github.com/MarianoAkaMery)
 
 🌟 **Acknowledgments**: Special thanks to the creators of the Interactions library and the MongoDB team for their invaluable contributions.
