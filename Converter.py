@@ -12,8 +12,8 @@ bot = interactions.Client(
 
 # Connect to MongoDB
 clientmongo = MongoClient("YOUR_MONGODB_CONNECTION_STRING")
-db = clientmongo.SniperUser
-UserCollection = db.SniperUser
+db = clientmongo.TableName
+UserCollection = db.SubTableName
 User = [[],[]]
 
 # Event handler for bot startup
